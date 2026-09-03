@@ -1,6 +1,6 @@
 public class EscapeSequence {
     public static void main(String[] args) {
-        //untuk menampilkan tanda kutip//
+        //untuk menampilkan tanda kutip
         System.out.println("Halo saya \"Asep\"");
 
         //untuk menampilkan tanda blackslash (\)
