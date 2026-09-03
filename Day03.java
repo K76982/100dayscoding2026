@@ -1,4 +1,4 @@
-public class day03 {
+public class Day03 {
     public static void main(String[] args) {
         //untuk menampilkan tanda kutip
         System.out.println("Halo saya \"Asep\"");
