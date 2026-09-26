@@ -1,4 +1,4 @@
-public class Day26 {
+public class Day25 {
     public static void main(String[] args) {
 
         double jariJari = 7;
